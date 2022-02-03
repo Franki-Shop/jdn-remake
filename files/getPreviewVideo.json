@@ -1,0 +1,27 @@
+{
+	"Disturbia": {
+		"url": "https://cdn.glitch.com/2b09db84-4390-47ea-8c47-ea6afa6562cb/disturbia_preview.mp4",
+		"cookie": "",
+		"song": "Disturbia"
+	},
+	"HighLightCHN": {
+		"url": "https://cdn.glitch.com/2b09db84-4390-47ea-8c47-ea6afa6562cb%2Fjdchighlight_preview.mp4",
+		"cookie": "",
+		"song": "HighLightCHN"
+	},
+  "MedicinaALT": {
+    "url": "https://sneakpeak.justdancenow.com/medicinaalt_e13358514f9e0c7e0b98278c98f7d3c358325807.mp4",
+    "cookie": "st=1564580228~exp=1565876228~acl=/medicinaalt_e13358514f9e0c7e0b98278c98f7d3c358325807_576p.mp4~hmac=b67fd64784e78ce6a0caeebaf9719025",
+    "song": "MedicinaALT"
+  },
+  "HoldMyHand": {
+    "url": "https://sneakpeak.justdancenow.com/holdmyhand_172992acdac242fecc7d17d32ba558bea62df82a.mp4",
+    "cookie": "",
+    "song": "HoldMyHand"
+  },
+  "BubblePop": {
+    "url": "https://cdn.glitch.com/079b529d-e1b6-4de0-a66d-21e23e7d70db%2Fjdcclown_preview.mp4",
+    "cookie": "st=1564587497~exp=1565883497~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+    "song": "BubblePop"
+  }
+}

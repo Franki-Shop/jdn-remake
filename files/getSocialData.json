@@ -1,0 +1,22 @@
+{
+  "Disturbia": {
+    "func": "socialData",
+    "song": "Disturbia",
+    "data":{
+      "communityStats":[
+        {
+          "oasisParams": {
+            "[number]":0
+          },
+          "oasisText":"1027"
+        },
+        {
+          "oasisParams": {
+            "[number]":0
+          },
+          "oasisText":"1028"
+        }
+      ]
+    }
+  }
+}

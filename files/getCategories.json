@@ -1,0 +1,44 @@
+[{
+		"id": "",
+		"pos": 0,
+		"songs": ["BubblePop", "Disturbia", "HighLightCHN", "MedicinaALT", "HoldMyHand"],
+		"name": "RECOMMENDED FOR YOU!",
+		"freeToPlay": false,
+		"trackingId": "Recommended for you"
+	}, {
+		"id": "5d314a4490125f20ad2aca34",
+		"pos": 1,
+		"songs": ["Disturbia"],
+		"name": "Just Dance 4",
+		"freeToPlay": false,
+		"trackingId": "All About that Bass"
+	}, {
+		"id": "5ab3710485bd04519e4a20c3",
+		"pos": 2,
+		"songs": ["Maria", "SheWolf", "WhereHaveYou"],
+		"name": "Just Dance 2014",
+		"freeToPlay": false,
+		"trackingId": "ABBA"
+	}, {
+		"id": "5acf2a1e413a9b43a7e55da1",
+		"pos": 3,
+		"songs": ["ILoveIt"],
+		"name": "Just Dance 2015",
+		"freeToPlay": false,
+		"trackingId": "PassportInAPlaylist"
+	}, {
+		"id": "59e864203c90aecc4090f967",
+		"pos": 4,
+		"songs": ["DancingDivaCHN", "HighLightCHN", "LittleAppleCHN"],
+		"name": "Just Dance 2015 China",
+		"freeToPlay": false,
+		"trackingId": "EasyPeasy"
+  }, {
+		"id": "594b8fc7390607ad4fd4c271",
+		"pos": 14,
+		"songs": ["Happy", "JustDance", "Gentleman", "Summer", "GoodFeeling", "MrSaxobeat", "Rasputin", "BreakFreeDLC", "MovesLikeDLC"],
+		"name": "Your first dance",
+		"freeToPlay": false,
+		"trackingId": "FTUE"
+	}
+]
